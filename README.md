@@ -68,3 +68,15 @@ Everything feels responsive, dynamic, and ready for gameplay. 🎮
 - Optimized for **UE 5.6+**
 
 ---
+
+## ⚙️ Requirements
+
+Before running the project, make sure to install the following:
+
+### 📦 Git LFS
+> The project uses **Git Large File Storage** for animations and textures.  
+If you clone the repository, install Git LFS first:
+
+```bash
+git lfs install
+git clone https://github.com/YourName/Example.git
