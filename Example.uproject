@@ -58,6 +58,10 @@
 		{
 			"Name": "ChaosVehiclesPlugin",
 			"Enabled": true
+		},
+		{
+			"Name": "LudusAI",
+			"Enabled": true
 		}
 	],
 	"EpicSampleNameHash": "1673045636"
