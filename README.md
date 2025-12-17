@@ -79,4 +79,4 @@ If you clone the repository, install Git LFS first:
 
 ```bash
 git lfs install
-git clone https://github.com/YourName/Example.git
+git clone https://github.com/alm1e/Example.git
