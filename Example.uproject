@@ -58,6 +58,31 @@
 		{
 			"Name": "ChaosVehiclesPlugin",
 			"Enabled": true
+		},
+		{
+			"Name": "SplineMeshEditor",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/270efe7731fc4f3c84c91f21898d9b3a"
+		},
+		{
+			"Name": "CrazyIvy",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/971d1e04329945cb8c6028fa5578287c"
+		},
+		{
+			"Name": "CVFXEnvGen",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/b926fa48-d7fc-4741-9d01-cd90044ef2c1",
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		},
+		{
+			"Name": "WaterPhysics",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2d8710643bcf4e2b94a9154d0732b4af"
 		}
 	],
 	"EpicSampleNameHash": "1673045636"
