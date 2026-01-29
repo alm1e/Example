@@ -71,7 +71,7 @@
 		},
 		{
 			"Name": "CVFXEnvGen",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/b926fa48-d7fc-4741-9d01-cd90044ef2c1",
 			"SupportedTargetPlatforms": [
 				"Win64",
