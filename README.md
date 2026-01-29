@@ -53,9 +53,11 @@ Everything feels responsive, dynamic, and ready for gameplay. 🎮
 | Sprint | **Left Shift** | Accelerate forward |
 | Crouch | **C** | Enter stealth / crouch mode |
 | Jump / Traversal | **Spacebar** | Jump, vault, or climb |
-| Toggle Rotation Mode | **Middle Mouse Button** | Switch between “movement-based” and “camera-based” rotation |
+| Super AIM | **Middle Mouse Button** | Switch between aim and super-aim |
 | Aim | **Right Mouse Button** | Enter aiming mode (ADS) |
 | Change Camera Style | **Mouse Wheel** | Switch between camera perspectives |
+| Flashlight| **F** | Toggle on, off flashlight |
+| Interaction| **E** | Interact with objects |
 
 ---
 
